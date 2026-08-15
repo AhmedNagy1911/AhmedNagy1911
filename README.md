@@ -56,48 +56,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 Hospital Management System
-
-A backend API for managing doctors, patients, appointments, rooms, and beds.
-
-**Tech:** `C#` `ASP.NET Core` `.NET 10` `EF Core` `SQL Server` `JWT` `Identity` `Clean Architecture`
-
----
-
-### 📊 Survey Basket API
-
-A RESTful API for managing polls, questions, answers, and user responses.
-
-**Tech:** `C#` `ASP.NET Core` `EF Core` `SQL Server` `JWT`
-
----
-
-### 🎓 Online Courses API
-
-A backend API for managing online courses and related entities.
-
-**Tech:** `C#` `ASP.NET Core` `EF Core` `SQL Server`
-
----
-
-## 🏆 Competitive Programming
-
-- 💡 Codeforces: [Ahmed_Nagy1911](https://codeforces.com/profile/Ahmed_Nagy1911)
-- 🧠 Interested in problem solving and algorithms
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedNagy1911&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNagy1911&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
