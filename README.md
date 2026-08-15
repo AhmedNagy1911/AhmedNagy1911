@@ -87,8 +87,8 @@ Backend API for managing online courses and related entities.
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: Add your LinkedIn here
-- 📧 Email: Add your professional email here
+- 💼 LinkedIn: [Ahmed Nagy](https://www.linkedin.com/in/ahmed-nagy-70958a332/)
+- 📧 Email:[ahmednagezamalek@gmail.com](mailto:ahmednagezamalek@gmail.com)
 - 💻 GitHub: [AhmedNagy1911](https://github.com/AhmedNagy1911)
 
 ---
