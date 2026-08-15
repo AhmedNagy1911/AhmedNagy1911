@@ -15,7 +15,6 @@
 - 🔐 Interested in **JWT, ASP.NET Identity, Authentication & Authorization**
 - 🗄️ Working with **Entity Framework Core and SQL Server**
 - 🌱 Always learning and improving my backend development skills
-- ☕ Coffee + Coding = A good day
 
 ---
 
