@@ -22,17 +22,16 @@
 
 - 🎓 B.Sc. Information Systems — Zagazig University
 - 💻 Backend .NET Developer
-- 🏗️ Building scalable APIs with ASP.NET Core & Clean Architecture
+- 🏗️ Building scalable APIs with ASP.NET Core & Clean Architecture &CQRS And Mediator
 - 🔐 JWT • Identity • RBAC • Permission-Based Authorization
 - ⚡ Redis • HybridCache • Hangfire • Rate Limiting
-- 🧠 Codeforces Rating: **1267**
 
 ### 🛠️ Tech Stack
 
 `C#` `ASP.NET Core` `EF Core` `SQL Server`  
 `Clean Architecture` `CQRS And Mediator`
 `SOLID` `JWT` `Redis` `Hangfire`
-`Docker` `Serilog` `Swagger` 
+`Docker` `Serilog` `Swagger` `Postman`  
 `Design patterns` `SignalR` 
 
 <p align="center">
