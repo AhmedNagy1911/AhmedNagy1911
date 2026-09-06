@@ -1,76 +1,48 @@
-<h1 align="center">Welcome to Ahmed Nagy's Profile! 👋</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Nagy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;ASP.NET+Core+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
+  <b>Backend .NET Developer</b> • ASP.NET Core • Clean Architecture
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 💻 I'm a **Backend .NET Developer**
-- 🎓 Computer Science student at **Zagazig University**
-- 🚀 Building backend applications using **C# and ASP.NET Core**
-- 🏗️ Interested in **Clean Architecture, SOLID Principles, and Design Patterns**
-- 🔐 Interested in **JWT, ASP.NET Identity, Authentication & Authorization**
-- 🗄️ Working with **Entity Framework Core and SQL Server**
-- 🌱 Always learning and improving my backend development skills
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-### Authentication & Security
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-### Architecture & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOLID-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Design%20Patterns-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/ahmed-nagy-70958a332/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:ahmednagezamalek@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
+<p align="center">
   <a href="https://github.com/AhmedNagy1911">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/ahmed-nagy-70958a332/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/Ahmed_Nagy1911">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">💻 Backend .NET Developer | 🚀 Always Learning</h3>
+### 👨‍💻 About Me
+
+- 🎓 B.Sc. Information Systems — Zagazig University
+- 💻 Backend .NET Developer
+- 🏗️ Building scalable APIs with ASP.NET Core & Clean Architecture
+- 🔐 JWT • Identity • RBAC • Permission-Based Authorization
+- ⚡ Redis • HybridCache • Hangfire • Rate Limiting
+- 🧠 Codeforces Rating: **1267**
+
+### 🛠️ Tech Stack
+
+`C#` `ASP.NET Core` `EF Core` `SQL Server`  
+`Clean Architecture` `SOLID` `JWT` `Redis`  
+`Hangfire` `Docker` `Serilog` `Swagger`
+
+### 🚀 Featured Projects
+
+**[Reconcile](https://github.com/AhmedNagy1911/Reconcile-restaurant)**  
+Restaurant Management System built with ASP.NET Core, Clean Architecture, JWT, EF Core, SQL Server & Docker.
+
+**[VoicePulse](https://github.com/AhmedNagy1911/VoicePulse)**  
+Scalable Survey Management API with Redis, Hangfire, JWT, permission-based authorization & API versioning.
+
+---
+
+<p align="center">
+  <b>💻 Building • Learning • Improving</b>
+</p>
