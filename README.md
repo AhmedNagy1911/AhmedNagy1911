@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/ahmed-nagy-70958a332/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/Ahmed_Nagy1911">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <a href="mailto:zamalekahmed196@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -30,18 +30,10 @@
 ### 🛠️ Tech Stack
 
 `C#` `ASP.NET Core` `EF Core` `SQL Server`  
-`Clean Architecture` `SOLID` `JWT` `Redis`  
-`Hangfire` `Docker` `Serilog` `Swagger`
-
-### 🚀 Featured Projects
-
-**[Reconcile](https://github.com/AhmedNagy1911/Reconcile-restaurant)**  
-Restaurant Management System built with ASP.NET Core, Clean Architecture, JWT, EF Core, SQL Server & Docker.
-
-**[VoicePulse](https://github.com/AhmedNagy1911/VoicePulse)**  
-Scalable Survey Management API with Redis, Hangfire, JWT, permission-based authorization & API versioning.
-
----
+`Clean Architecture` `CQRS And Mediator`
+`SOLID` `JWT` `Redis` `Hangfire`
+`Docker` `Serilog` `Swagger` 
+`Design patterns` `SignalR` 
 
 <p align="center">
   <b>💻 Building • Learning • Improving</b>
