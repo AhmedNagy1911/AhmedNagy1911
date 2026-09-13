@@ -66,19 +66,8 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedNagy1911&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNagy1911&layout=compact&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNagy1911&theme=radical&hide_border=true"/>
-
-</div>
-
 
 
 <div align="center">
