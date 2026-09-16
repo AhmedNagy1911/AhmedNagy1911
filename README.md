@@ -4,7 +4,7 @@
 
 ### Backend .NET Developer • ASP.NET Core • Clean Architecture
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/212259452-21e9f216-c9be-4023-80fd-22700dc9394d.png" width="300"/>
 
 
 <p>
